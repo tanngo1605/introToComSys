@@ -25,5 +25,5 @@ int main(){
 
 	read_ints(filename,arr);
 	printArray(arr,10 );
-return 0;
+        return 0;
 }
